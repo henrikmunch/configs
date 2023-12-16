@@ -1,4 +1,5 @@
 # configs
 
-i3: based on endevourOS
-neovim: based on kickstart.nvim
+i3: based on endevourOS.
+
+neovim: based on kickstart.nvim.
